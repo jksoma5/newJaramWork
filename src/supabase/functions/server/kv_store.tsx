@@ -16,6 +16,7 @@ const client = () => createClient(
   Deno.env.get("SUPABASE_URL"),
   Deno.env.get("SUPABASE_SERVICE_ROLE_KEY"),
 );
+//gittest
 
 // Set stores a key-value pair in the database.
 export const set = async (key: string, value: any): Promise<void> => {

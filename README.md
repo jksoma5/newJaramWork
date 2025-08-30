@@ -8,3 +8,4 @@ supabase로 db 연결하여 vite 기반 서버를 통해
 api와 db간의 상호 통신을 조율하여 동적웹 개발
 
 이 목표였으나 처음 하는 웹 개발 지식이 전무하여 오류가 사라지지를 않아 개발이 힘들 것 같아 ui만 남겨졌습니다.
+![jaram](https://github.com/user-attachments/assets/c58ed04d-b50b-4e36-b366-aaaea6a3fec7)

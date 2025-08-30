@@ -1,11 +1,10 @@
+주제선정 : 영양가 있는 단조로운 식사를 지향하는 개발자를 위한 웹 개발
 
-  # 웹사이트 적용 방법
+기능 : 핫딜 정보 크롤링 및 정리와 남은 음식의 양을 ai를 이용해 예측할 수 있도록 제작 (희망사항)
 
-  This is a code bundle for 웹사이트 적용 방법. The original project is available at https://www.figma.com/design/HS8HcINbbGwi81vPB8WD9M/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%A0%81%EC%9A%A9-%EB%B0%A9%EB%B2%95.
+기술스택 :
+figma make를 사용해 ui를 만들고
+supabase로 db 연결하여 vite 기반 서버를 통해
+api와 db간의 상호 통신을 조율하여 동적웹 개발
 
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+이 목표였으나 처음 하는 웹 개발 지식이 전무하여 오류가 사라지지를 않아 개발이 힘들 것 같아 ui만 남겨졌습니다.
